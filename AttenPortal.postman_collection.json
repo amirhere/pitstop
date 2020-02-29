@@ -1,0 +1,105 @@
+{
+	"id": "9a09dede-4b9f-a7df-5944-559165d70336",
+	"name": "AttenPortal",
+	"description": "",
+	"order": [
+		"77454268-8843-7144-6dbe-353fc6117a5f",
+		"45a16386-b260-bfd8-d56f-c43bb9b3e749"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1577198960338,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "45a16386-b260-bfd8-d56f-c43bb9b3e749",
+			"headers": "Authorization: Bearer 9r7y9Sn_TS2acemGtQW9ALPNTDegmAwLQLzjI3vgd4O4T9doi9yahHqq3LB0DHluml7E_GVSpJFIErvQgxcOnPS2UP7n3gCI8SHMLYrkLtjeorRm2ELizv3i4EdPLq2V5MhsTT6d-dilhIiMimRpLTXwJjTcB2A6TciNzZnsWDOvuHI6-AWNi7SJ6xKlmhSgNHCaJpK4RKb9LeKfzOu0dbuZNwKHlGEmr8MfFQhrLKfYIVdAJdLacGfm9mONESU_6JJlC0OaWyVdoIHTt4K6HKayaiNDesb_Qz_JkPg_kVtybQg0Cm-95nMQV3Nm0zEp2UB2C0HivO3cz97ImWIKUZs86of-Ex3J5TugrU95ea69KXRv8VAPT4a1fVsHJhvaar16tQLuiuJaPHdaM-eNb1StT5MCCNspLOWOey9HfvWucxck-7DOm0RIYdA5JF6MydzFEWNF4XDFyfrRyOIj7QP7cbD5oM4GXfRicMkZUf_m5djlcTR8gSOSItchQYrSGO2LcYe34xTC0nEwnrYWKA\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer 9r7y9Sn_TS2acemGtQW9ALPNTDegmAwLQLzjI3vgd4O4T9doi9yahHqq3LB0DHluml7E_GVSpJFIErvQgxcOnPS2UP7n3gCI8SHMLYrkLtjeorRm2ELizv3i4EdPLq2V5MhsTT6d-dilhIiMimRpLTXwJjTcB2A6TciNzZnsWDOvuHI6-AWNi7SJ6xKlmhSgNHCaJpK4RKb9LeKfzOu0dbuZNwKHlGEmr8MfFQhrLKfYIVdAJdLacGfm9mONESU_6JJlC0OaWyVdoIHTt4K6HKayaiNDesb_Qz_JkPg_kVtybQg0Cm-95nMQV3Nm0zEp2UB2C0HivO3cz97ImWIKUZs86of-Ex3J5TugrU95ea69KXRv8VAPT4a1fVsHJhvaar16tQLuiuJaPHdaM-eNb1StT5MCCNspLOWOey9HfvWucxck-7DOm0RIYdA5JF6MydzFEWNF4XDFyfrRyOIj7QP7cbD5oM4GXfRicMkZUf_m5djlcTR8gSOSItchQYrSGO2LcYe34xTC0nEwnrYWKA",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://app.myhcm.pk/api/Attendance/Upload",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "9a09dede-4b9f-a7df-5944-559165d70336",
+			"data": [],
+			"dataMode": "raw",
+			"name": "https://app.myhcm.pk/api/Attendance/Upload",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1577198974855,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "[{\r\n\"Date\":\"11/24/2019\", \r\n\"Time\":\" 10:00:00\",\r\n\"CardNumber\": 10005,\r\n\"TrType\": 2,\r\n\"Location\": \"Head Office\"\r\n},\r\n{\r\n\"Date\":\"11/25/2019\", \r\n\"Time\":\" 10:00:00\",\r\n\"CardNumber\": 10005,\r\n\"TrType\": 2,\r\n\"Location\": \"Head Office\"\r\n}\r\n]"
+		},
+		{
+			"id": "77454268-8843-7144-6dbe-353fc6117a5f",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://app.myhcm.pk/Token",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "9a09dede-4b9f-a7df-5944-559165d70336",
+			"data": [
+				{
+					"key": "username",
+					"value": "amiraslam",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "uqEFO%8C3",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "grant_type",
+					"value": "password",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "Attendance Portal Login",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1577198962800,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
