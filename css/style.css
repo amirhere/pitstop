@@ -293,6 +293,9 @@ h6 {
   transition: all 0.3s ease-in-out 0s;
 }
 
+
+
+
 .nav-menu a:hover:before,
 .nav-menu li:hover > a:before,
 .nav-menu .menu-active > a:before {
