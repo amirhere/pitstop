@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb11d54d-73d0-4e51-8147-525792a53d99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/corporateman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sn.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/--index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/registration.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/corporate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pakistaniboy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pf.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Archive.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,14 +44,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/about-us" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -149,7 +155,24 @@
       <workItem from="1583091355849" duration="151000" />
       <workItem from="1583203197848" duration="573000" />
       <workItem from="1583205044722" duration="1245000" />
-      <workItem from="1583206895235" duration="544000" />
+      <workItem from="1583206895235" duration="882000" />
+      <workItem from="1583608368028" duration="94000" />
+      <workItem from="1583688841159" duration="523000" />
+      <workItem from="1583689693209" duration="898000" />
+      <workItem from="1583691559490" duration="220000" />
+      <workItem from="1583691871263" duration="1387000" />
+      <workItem from="1583697664295" duration="1619000" />
+      <workItem from="1583699658279" duration="1330000" />
+      <workItem from="1583702037872" duration="465000" />
+      <workItem from="1583725131268" duration="1262000" />
+      <workItem from="1583727190404" duration="89000" />
+      <workItem from="1583727282642" duration="5000" />
+      <workItem from="1583727292038" duration="1008000" />
+      <workItem from="1583729144790" duration="732000" />
+      <workItem from="1583731029488" duration="1332000" />
+      <workItem from="1583733555483" duration="49000" />
+      <workItem from="1583733610304" duration="18000" />
+      <workItem from="1583733632624" duration="944000" />
     </task>
     <servers />
   </component>
